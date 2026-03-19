@@ -36,7 +36,7 @@
 ## Preview
 
 <div align="center">
-  <img src="https://github.com/sloth632/sloth-manga/blob/main/sloth-pictures/sloth-manga-preview.png" width="800" />
+  <img src="https://github.com/sloth632/sloth-manga/blob/main/sloth-pictures/sloth-manga.png" width="800" />
 </div>
 
 ---
