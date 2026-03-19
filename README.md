@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/Content-Manga-ff4757?style=flat-square" />
   <img src="https://img.shields.io/badge/API-AniList%20%26%20External-1e90ff?style=flat-square" />
 </div>
+## Live Website
+
+[SLOTH MANGA](https://sloth-manga.pages.dev/)
 
 ---
 
